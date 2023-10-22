@@ -1,0 +1,34 @@
+{
+    "name": "Player_control",
+    "maps": [
+        {
+            "name": "Keyboard ",
+            "id": "efc5241c-df43-41e6-bcf3-c6cec1405985",
+            "actions": [
+                {
+                    "name": "movement",
+                    "type": "Value",
+                    "id": "ecc41a38-2c5f-476f-99da-b92e085b08f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "96a0db94-463a-48a2-8c01-aa1d201f1bf5",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "movement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
